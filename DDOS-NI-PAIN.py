@@ -10,11 +10,9 @@ import time
 os.system("clear")
 os.system("xdg-open https://discord.gg/8gmRVnRRwV")
 print("\u001b[35m Welcome to SOCIAL CYBER ASSOCIATIONS World")
-print("\u001b[35m NA HACK KANA GAR IYAK KNA")
-time.sleep(5)
+print("\u001b[35m SOCIAL CYBER ASSOCIATIONS!!!")
+time.sleep(3)
 print("Loading.......")
-os.system("clear")
-os.system("xdg-open")
 
 #### Login       
 
