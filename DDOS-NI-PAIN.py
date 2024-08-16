@@ -6,9 +6,7 @@ import os
 import sys
 import time
 
-###### MESSAGE SCA ON TOP! #####
-os.system("clear")
-os.system("xdg-open https://discord.gg/8gmRVnRRwV")
+###### MESSAGE SCA ON TOP! ######
 print("\u001b[35m Welcome to SOCIAL CYBER ASSOCIATIONS World")
 print("\u001b[35m SOCIAL CYBER ASSOCIATIONS!!!")
 time.sleep(3)
@@ -34,9 +32,9 @@ os.system("clear")
 print("""
 \u001b[35m
 	  AUTHOR TOOLS : SCA
-		╔═╗╔═╗   ╔═╗
-		╚═╗║         ╠═╣
-		╚═╝╚═╝      ╩  V1.1
+		╔═╗╔═╗╔═╗
+		╚═╗║  ╠═╣
+		╚═╝╚═╝ ╩  V1.1
 """)
 
 ip = str(input(" Target IP :"))
