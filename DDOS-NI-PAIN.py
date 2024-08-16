@@ -27,7 +27,6 @@ while attemps < 100:
         print('Incorrect credentials. Check if you have Caps lock on and try again.')
         attemps += 1
         continue
-os.system("clear")
 
 print("""
 \u001b[35m
