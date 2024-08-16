@@ -2,7 +2,6 @@
 import random
 import socket
 import threading
-import os
 import sys
 import time
 
